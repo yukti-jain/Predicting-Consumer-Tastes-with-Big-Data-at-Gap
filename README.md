@@ -28,7 +28,7 @@ Download the java and configure with your environmental variables naming it JAVA
 2)	Go to Google trends Data folder inside that and open a jupyter notebook and run the file Google trends graph.ipynb.
 3)	This will give you the output for the number of searches in google in a csv.
 # Authors
-"""\n Anton Francesco
-\n Chinmay Gidwani
-\n Yukti Jain
-\n Samarth Bansal"""
+  Anton Francesco
+  Chinmay Gidwani
+  Yukti Jain
+  Samarth Bansal
